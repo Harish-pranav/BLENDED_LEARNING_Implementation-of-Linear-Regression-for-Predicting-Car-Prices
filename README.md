@@ -15,7 +15,7 @@ To write a program to predict car prices using a linear regression model and tes
 5. Evaluate & visualize – Compute metrics (MSE, RMSE, R², MAE), check residuals (Durbin‑Watson, homoscedasticity), and plot actual vs predicted prices. 
 
 ## Program:
-```
+```py
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
